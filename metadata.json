@@ -1,0 +1,8 @@
+{
+  "name": "TOWER 3 HD",
+  "description": "Community residential management portal for Tower 3, New Horizontal Enclave, Oil India Limited Housing Colony, Duliajan, Assam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
